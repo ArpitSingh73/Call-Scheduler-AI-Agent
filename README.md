@@ -4,7 +4,7 @@ Welcome to the **Smart Scheduler AI Agent** — an interactive voice-based chatb
 
 ## 🚀 What It Does
 
-This project simulates a real-world AI assistant that:
+This project simulates a real-world AI assistant that: 
 
 - Holds intelligent, multi-turn conversations to understand a user's scheduling needs.
 - Asks clarifying questions if details are missing (e.g., duration, day/time).
